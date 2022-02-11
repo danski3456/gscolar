@@ -1,0 +1,4 @@
+*.csv
+*.jsonl
+.traversed.txt
+.venv/
